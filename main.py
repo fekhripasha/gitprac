@@ -1,8 +1,1 @@
-main()
-{
- 
- print("hello worlsd")
-
-
-
-}
+main(){}
