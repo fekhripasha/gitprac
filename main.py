@@ -1,1 +1,8 @@
-main(){}
+main()
+{
+ 
+ print("hello worlsd")
+
+
+
+}
